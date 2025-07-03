@@ -31,4 +31,9 @@ cd gesture-scroller
 pip install -r requirements.txt
 ```
 ## ▶️ Run the app
+```bash
 python main.py
+```
+
+
+
