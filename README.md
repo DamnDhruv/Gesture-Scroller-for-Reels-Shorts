@@ -22,7 +22,7 @@ Control scrolling on your screen using just your **finger gestures** in the air 
 ### 🔗 Clone this repo
 
 ```bash
-git clone https://github.com/your-username/gesture-scroller.git
+git clone https://github.com/DamnDhruv/gesture-scroller.git
 cd gesture-scroller
 ```
 
