@@ -24,3 +24,8 @@ Control scrolling on your screen using just your **finger gestures** in the air 
 ```bash
 git clone https://github.com/your-username/gesture-scroller.git
 cd gesture-scroller
+'''
+
+## 💾 Install dependencies
+```bash
+pip install -r requirements.txt
